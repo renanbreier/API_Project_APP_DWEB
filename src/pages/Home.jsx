@@ -32,7 +32,7 @@ const Home = () => {
   // Exibe a lista de filmes na interface do usuário
   return (
     <div className="container">
-      <h2 className="title">PRINCIPAIS FILMES:</h2>
+      <h2 className="title">PRINCIPAIS FILMES</h2>
       <div className="movies-container">
         {topMovies.length > 0 &&
           topMovies.map((movie) => <MovieCard key={movie.id} movie={movie} />)}
