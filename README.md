@@ -1,8 +1,9 @@
-# React + Vite
+# React + TMDb API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto criado para a aula de desenvolvimento web front end! Utilizamos React + Vite e a API TMDb para buscar os filmes
 
-Currently, two official plugins are available:
+Projeto final:
+![image](https://github.com/renanbreier/React-ListagemDeFilmes/assets/97745189/26b13175-bf9d-4673-b77f-2e991acd6828)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Trecho do código:
+![image](https://github.com/renanbreier/React-ListagemDeFilmes/assets/97745189/f5fcefa5-5dfa-41b5-87f0-269d1c343433)
